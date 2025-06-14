@@ -97,7 +97,7 @@ mvn spring-boot:run
 ```
 
 A API ficará disponível em:  
-📍 `http://localhost:8080/alunos`
+📍 `http://localhost:8080/alunos` <br>
 📍 `http://localhost:8080/cursos`
 ---
 
